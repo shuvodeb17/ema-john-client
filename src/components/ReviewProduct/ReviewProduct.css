@@ -1,0 +1,31 @@
+.review-product {
+    border: 1px solid #ddd;
+    width: 52%;
+    padding: 3px;
+    border-radius: 10px;
+    gap: 10px;
+    margin: 10px auto;
+}
+
+.review-product img {
+    width: 104px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.review-product-main {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.trash {
+    color: #D4585C;
+}
+
+.right-review {
+    background: #F7CCCB;
+    padding: 10px 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-right: 10px;
+}

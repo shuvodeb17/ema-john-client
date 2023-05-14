@@ -1,0 +1,7 @@
+button.checkout-btn {
+    background: goldenrod;
+    width: 100%;
+    margin-top: 10px;
+    padding: 7px;
+    border-radius: 5px;
+}

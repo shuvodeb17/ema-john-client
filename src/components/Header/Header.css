@@ -1,0 +1,27 @@
+.header {
+  background-color: #1c2b35;
+  padding: 15px;
+}
+.container {
+  width: 1174px;
+  margin: auto;
+}
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+.right ul {
+  display: flex;
+}
+.right ul li {
+  padding: 0px 18px;
+}
+.right ul li a {
+  color: #fff;
+  transition: all 0.5s;
+}
+.right ul li a:hover {
+  color: orange;
+}
