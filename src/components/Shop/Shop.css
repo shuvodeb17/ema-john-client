@@ -1,4 +1,5 @@
-.shop {}
+.shop {
+}
 
 .shop-container {
   display: grid;
@@ -20,4 +21,16 @@ button.shop-button {
   margin-top: 10px;
   padding: 7px;
   border-radius: 5px;
+}
+
+.pagination-button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.pagination{
+  margin: auto;
+  text-align: center;
+}
+.pagination .selected{
+  background-color: skyblue;
 }
